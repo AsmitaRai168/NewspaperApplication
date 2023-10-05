@@ -1,0 +1,13 @@
+
+.main-nav{
+    display: flex;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+    column-gap: 2em;
+    justify-content: center;
+    margin:0.5em
+}
+.main-nav a{
+    text-decoration: none;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    color: gray
+}

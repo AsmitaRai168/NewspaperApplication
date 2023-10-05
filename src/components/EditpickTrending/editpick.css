@@ -1,0 +1,24 @@
+
+.editorpick-container{
+    
+    display: flex;
+
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    flex-direction: row;
+    
+    padding: 1em;
+}
+.heading-editorpick{
+    margin-left:1em;
+    color:brown
+}
+
+.auth-container{
+    margin-top: 1em;
+    color: gray;
+
+}
+.dates-container{
+    margin-top: 0.5em;
+    color:gray;
+}

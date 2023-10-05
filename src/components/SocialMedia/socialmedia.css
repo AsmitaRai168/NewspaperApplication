@@ -1,0 +1,35 @@
+ 
+.social {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+    
+    
+    
+    
+  }
+  
+.social a {
+    text-decoration: none;
+    display: flex;
+    
+    align-items: center;
+    font-size: 1.5rem;
+    color: #eee;
+    background-color: #0c2f5f;
+    cursor: pointer;
+    margin-right: 1rem;
+    
+    box-shadow: 0 0 0px 3px #0c2f5f;
+  }
+  
+  
+  
+  .social a span {
+    font-size: 1rem;
+  }
+  
+  .social a svg {
+    display: inline-block;
+    margin: 0 0.5rem;
+  }

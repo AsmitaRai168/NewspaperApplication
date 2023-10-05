@@ -1,0 +1,25 @@
+
+.Header-main-container{
+
+
+    
+    margin: 1em;
+
+}
+.date-time-container{
+    color: gray;
+    font-size: 25px;
+    font-weight: 100;
+
+}
+.name-of-newspaper{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 300;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

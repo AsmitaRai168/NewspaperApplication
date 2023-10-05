@@ -1,0 +1,7 @@
+.poltical-article-container {
+  display: flex;
+  justify-content: space-around;
+  gap: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}

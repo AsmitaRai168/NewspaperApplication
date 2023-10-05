@@ -1,0 +1,31 @@
+.pagination {
+	display: flex;
+  justify-content: center;
+	}
+  
+  .pagination a {
+	color: black;
+	float: left;
+	padding: 8px 16px;
+	text-decoration: none;
+  }
+
+/*
+.pagination-container{
+	box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+   
+   
+   text-decoration: none;
+}
+.pagination-container a.disable{
+	opacity:0.2;
+}
+.pagination-container a.active{
+	background-color: #007bff;
+	color: white;
+	border:1px solid #7cbddb
+}
+.pagination-container a:hover:not(.active)
+{
+	background-color: rgb(238,238,238);
+}*/

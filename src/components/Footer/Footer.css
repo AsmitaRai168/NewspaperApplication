@@ -1,0 +1,39 @@
+.footer-main-container{
+    margin: 1em;
+    background-color: aliceblue;
+    
+
+}
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 0.1em;
+}
+.about-container{
+   font-family: 'Courier New', Courier, monospace; 
+   font-size: 20px;
+
+}
+.about-description{
+    display: inline-block;
+    font-size: 14px;
+    width:25em ;
+    color: gray;
+
+
+}
+.link-container{
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 20px;
+  
+}
+.link-description{
+    display: inline-block;
+    width: 15em;
+    color: gray;
+    font-size: 14px;
+}
+.comment-container{
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 20px;
+}

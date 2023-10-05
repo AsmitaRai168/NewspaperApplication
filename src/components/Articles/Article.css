@@ -1,0 +1,43 @@
+.main-article-container {
+  /* display: flex;
+  align-items: center;
+  /* justify-content: space-around;
+  flex-wrap: wrap; */
+  /* gap: 2rem;  */
+}
+.newsart-container {
+  display: flex;
+  flex-direction: column;
+
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.article-container {
+  padding: 3rem;
+  display: flex;
+  /* align-items: center; */
+  flex-direction: column;
+  text-align: left;
+}
+.title-container {
+  display: inline;
+  color: black;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-family: "Young Serif", serif;
+}
+
+.description {
+  color: gray;
+  /* width: 300px; */
+  font-size: 15px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top: 2em;
+}
+.author-container {
+  margin-top: 1em;
+  color: black;
+}
+.image-container {
+  margin-top: 2em;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}

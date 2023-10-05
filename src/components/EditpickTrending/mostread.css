@@ -1,0 +1,36 @@
+.Popular-main-container{
+margin: 0.5em;
+border: none;
+box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.img-container{
+    padding: 1em;
+}
+.title-containers{
+    padding: 1em;
+    color: black;
+    font-weight: 600;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.description-container{
+    padding: 1em;
+    font-size: 15px;
+
+}
+.titleofpopular{
+    color: brown;
+    margin-left: 0.5em;
+}
+.imgs-container{
+    
+    padding: 1.2em;
+}
+.by-container{
+    padding: 1em;
+    color:gray;
+}
+.date-container{
+    padding: 1em;
+    color: gray;
+}
